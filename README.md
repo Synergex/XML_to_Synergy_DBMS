@@ -7,6 +7,7 @@
 **Minimum Version:** 8.1<br />
 **Author:** William Hawkins
 <hr>
+
 **Additional Information:**
 
 Files required to build
@@ -24,8 +25,7 @@ Files required to build
 
  dbl xfspism2xml
  dblink -l xfspism2xml.elb xfspism2xml.dbo
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ <hr>
 
  Discussion:
 
